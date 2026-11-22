@@ -80,4 +80,4 @@ I built an internal dashboard to compare extracted profiles with the source resu
 - Recruiters trust scoring they can see into, so explainable weights beat a single opaque relevance score.
 
 ## Author
-**Yash Singh** · GenAI Engineer · [LinkedIn](https://linkedin.com/in/yashsinghswe)
+**Yash Singh** · AI Engineer · [LinkedIn](https://linkedin.com/in/yashsinghswe)
